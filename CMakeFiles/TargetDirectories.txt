@@ -1,0 +1,3 @@
+/home/yazer/Desktop/jeu/CMakeFiles/rebuild_cache.dir
+/home/yazer/Desktop/jeu/CMakeFiles/edit_cache.dir
+/home/yazer/Desktop/jeu/CMakeFiles/main.dir
